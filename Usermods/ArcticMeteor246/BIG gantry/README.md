@@ -3,6 +3,7 @@ Modified toolchanger to fit on a 3030 gantry with a very different belt path. Th
 
 ### Changes to 3d modells:
 - General cleaning of CAD files. Fix alot of annoying dimensions and modell errors
+- Reduced the amount of unique  
 
 
 ### Updated BOM:
