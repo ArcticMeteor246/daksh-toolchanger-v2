@@ -6,6 +6,12 @@ Modified toolchanger to fit on a 3030 gantry with a very different belt path. Th
 - Reduced the amount of unique parts
 - Cleaning of the CAD files breake compatiblity between this mod and the base toolchanger design. Only BIG gantry tools will fit on the BIG gantry tool carrier.
 
+### Options
+Optional second rail attached to brace
+- MGN12
+- MGN9
+- MGN7??
+
 ### Tools + **I**ntegrated **g**antry **C**ooling (IGC)(CPAP etc)
 One thing to note is that if using the mount with integrated cooling (and bed probe?) the following tools are compatible with the ducts.
 #### High flow tools
