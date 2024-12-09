@@ -15,8 +15,9 @@ Optional second rail attached to brace
 ### Tools + **I**ntegrated **g**antry **C**ooling (IGC)(CPAP etc)
 One thing to note is that if using the mount with integrated cooling (and bed probe?) the following tools are compatible with the ducts.
 #### High flow tools
-[Takoto HE50](https://www.takoto.com.au/product/he50-hotend-multimount-a11343/) based high flow tool
-[Chube](https://chubehotend.com/)
+- [Takoto HE50](https://www.takoto.com.au/product/he50-hotend-multimount-a11343/) (?)
+- [Chube](https://chubehotend.com/)
+- [Goliat](https://github.com/VzBoT3D/Goliath)
 #### Low flow tools
 Bambu lab clone based
 
