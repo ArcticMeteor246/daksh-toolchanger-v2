@@ -16,6 +16,7 @@ Optional second rail attached to brace
 One thing to note is that if using the mount with integrated cooling (and bed probe?) the following tools are compatible with the ducts.
 #### High flow tools
 [Takoto HE50](https://www.takoto.com.au/product/he50-hotend-multimount-a11343/) based high flow tool
+[Chube](https://chubehotend.com/)
 #### Low flow tools
 Bambu lab clone based
 
