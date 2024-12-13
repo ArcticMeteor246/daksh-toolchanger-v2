@@ -28,3 +28,6 @@ Default tool assembly for BIG gantry.
 - Specify needed springs -- Lenght, OD/ID, spring force range needed, stroke lenght, temper
 
 ## Documentation (To be done when design are finished)
+
+## Scope creep
+- [Rack robotics Wire EDM tool](https://rackrobo.io/products/preorder-powercore-v2-wire-edm-starter-kit)
