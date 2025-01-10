@@ -21,6 +21,11 @@ One thing to note is that if using the mount with integrated cooling (and bed pr
 #### Low flow tools
 Bambu lab clone based
 
+#### Cooling
+CPAP has some problems with responsivnes so it would probably be needed to use a sort of valve system to controll airflow.
+- [Examble #1](https://www.youtube.com/watch?v=MpZ4hBU4csI)
+- 
+
 ### Tools (with their own cooling)
 Default tool assembly for BIG gantry.
 
